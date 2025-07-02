@@ -270,7 +270,7 @@ This step is vital for the frontend to interact with the deployed DANG token.
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ````
 
-```
+
 
 ## Applications and Future Potential
 
