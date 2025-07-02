@@ -272,7 +272,7 @@ const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 
 ```
 
-# Applications and Future Potential
+## Applications and Future Potential
 
 OpenD, as a fully decentralized NFT marketplace built on the Internet Computer, has a vast array of applications and immense future potential:
 
